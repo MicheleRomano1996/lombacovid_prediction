@@ -2,8 +2,8 @@
 Attempt to predict the number of hospitalized in Lombardy according to the historical series of positives / swabs with different apporach:
 - XGBoost Regressor with time series method: [lomba_xgb](https://github.com/MicheleRomano1996/lombacovid_prediction/blob/main/lomba_xgb.ipynb)
 - XGBoost Regressor with regressive method: [lomba_xgb_regression_test](https://github.com/MicheleRomano1996/lombacovid_prediction/blob/main/lomba_xgb_regression_test.ipynb)
-- SARIMA and SARIMAX:
-- Prophet and Neural Prophet:
+- SARIMA and SARIMAX: [lomba_ARIMA](https://github.com/MicheleRomano1996/lombacovid_prediction/blob/main/lomba_ARIMA.ipynb)
+- Prophet and Neural Prophet: 
 - 
 
 # Data
