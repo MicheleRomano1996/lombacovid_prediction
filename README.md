@@ -4,7 +4,7 @@ Attempt to predict the number of hospitalized in Lombardy according to the histo
 - XGBoost Regressor with regressive method: [lomba_xgb_regression_reg](https://github.com/MicheleRomano1996/lombacovid_prediction/blob/main/lomba_xgb_regression_reg.ipynb)
 - SARIMA: [lomba_ARIMA](https://github.com/MicheleRomano1996/lombacovid_prediction/blob/main/lomba_ARIMA.ipynb)
 - SARIMAX: [lomba_SARIMAX](https://github.com/MicheleRomano1996/lombacovid_prediction/blob/main/lomba_SARIMAX.ipynb)
-- Vector Auto-Regressive Mode VAR: 
+- Vector Auto-Regressive Mode VAR: in progress...
 - 
 
 # Data
